@@ -34,7 +34,7 @@
     "font-awesome": "^4.7.0",
     "lodash-es": "^4.17.14",
     "ng-bootstrap": "^1.6.3",
-    "ng2-charts": "^2.2.2",
+    "ng2-charts": "^2.4.3",
     "ngx-perfect-scrollbar": "^7.2.1",
     "pe7-icon": "^1.0.4",
     "redux": "4.0.0",
